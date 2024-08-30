@@ -7,3 +7,6 @@ Um repositório é um local onde você armazena e gerencia arquivos de um projet
 
 Exercício 2
 ![image](https://github.com/user-attachments/assets/0ae03b1e-76dc-4f57-bfee-519a97552442)
+
+Exercício 3
+![image](https://github.com/user-attachments/assets/14205942-9205-4325-a99a-268054949b4d)
